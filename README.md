@@ -1,4 +1,4 @@
 # Repository-of-Liana
-# Hi this repository is for my Jasmine drawing
-# Uhhh yeah im just trying to do stuff
+# Hi this repository is for my art stuff
+# Uhhh yeah
 # first time doing GitHub things :)
